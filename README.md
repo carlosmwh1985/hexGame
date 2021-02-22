@@ -1,7 +1,9 @@
 # hexGame in C++
 ## by Carlos Granados
 
-A very first implementation of the game of hex in C++, for 2 players.
+A very first implementation of the game of hex in C++.
+
+The first implementation is for 2 players. A second is on its way, for one player vs the machine (using AI).
 
 The makefile compile directly the code, using the intel compilers...
 
